@@ -6,6 +6,10 @@
   <img src="https://pbs.twimg.com/media/GI5qIQhWQAEdghV?format=jpg&name=large" alt="GIF" width="200">
 </p>
 
+## ATENCION
+Se ha subido la segunda version, checa este link -> https://github.com/NicolasEtcheversss/ProyectoTII/tree/Version2.0
+
+
 ## ¿Y esto que es?
 Este proyecto es creado en base a un trabajo para mi universidad. El cual consiste en un panel de control para dispositivos conectados a una red, para lograr una gestion facil de los mismos sin tener que hacer mucho. 
 
