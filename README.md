@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://pbs.twimg.com/media/GI5qIQhWQAEdghV?format=jpg&name=large" alt="GIF" width="200">
+  <img src="https://preview.redd.it/nih3iac9chq81.jpg?auto=webp&s=a66fa998b165a2f22f98b2de4a3ae1c30737477f" alt="GIF" width="200">
 </p>
 
 ## ¿Y esto que es?
@@ -12,10 +12,10 @@ Este proyecto es creado en base a un trabajo para mi universidad. El cual consis
 ## Detalles del proyecto
 - **Lenguaje de programacion empleado:** HTML
 - **Tiempo empleado para su creación:** De 30 minutos a 1 hora
-- **¿Uso de IA?:** Si, pero solamente para centrar el panel, se me olvidó como se hacia jaja saludos.
+- **¿Uso de IA?:** ni idea, probablemente hello world.
 
 ## Notas al margen
-Este proyecto **no esta destinado a produccion**, esto significa que se quedará como está, y se quedará como un prototipo que se hizo para un trabajo, no esperen updates ni nada (a menos que me pidan actualizarlo)
+no lo vuelvo a actualizar aunque me obligue el papa.
 </div>
 <div align="center">
   <h1 align="center">Proyecto creado por NicolasEtcheversss en su totalidad. 💜</h1>
